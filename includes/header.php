@@ -6,7 +6,9 @@ $menuItems = [
 ];
 ?>
 
-
+<head>
+<link rel="icon" href="../assets/images/logo.png" type="image/png">
+</head>
 <header>
     <nav>
         <ul>
