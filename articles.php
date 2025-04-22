@@ -7,7 +7,7 @@ $result = pg_query($db_conn, "SELECT * FROM articles ORDER BY created_at DESC");
 <html>
 <head>
     <title>Статьи</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <div class="container">
